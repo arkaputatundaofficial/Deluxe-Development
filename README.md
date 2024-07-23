@@ -2,7 +2,9 @@
 ### Best Solutions for your Worst Problems
 
 **Deluxe Development** is an initiative by Arka Putatunda aimed to make,
-> Your Smartphone Your Superpower
+```
+Your Smartphone, Your Superpower
+```
 helping you utilize it in your own advantage.
 
 
